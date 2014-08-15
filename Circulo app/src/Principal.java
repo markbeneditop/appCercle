@@ -30,7 +30,7 @@ public class Principal extends JFrame implements ActionListener {
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
-		System.out.println("hhhhh");
+		System.out.println("hhhhhghghghghg");
 		
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
